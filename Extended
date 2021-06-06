@@ -1,8 +1,7 @@
 {
-    "how-to-implement": "in your meta.json - define *extended* with url to this (json) file - https://raw.githubusercontent.com/cardanians/adapools.org/master/example-meta.json",
-    "info": {
-        "url_png_icon_64x64": "",
-        "url_png_logo": "",
+"info": {
+        "url_png_icon_64x64": "https://i.ibb.co/h9KH38V/MP-logo.png",
+        "url_png_logo": "https://i.ibb.co/LZTS0Fq/Maluiin.png",
         "location": "Brisbane, Australia",
         "social": {
             "twitter_handle": "Cryptofly777",
@@ -22,8 +21,8 @@
             "vat_id": ""
         },
         "about": {
-            "me": "Linda! AKA Cryptofly777.",
-            "server": "Cloud based relays distributed worldwide. ",
+            "me": "Linda! AKA Cryptofly777. Single owner pool. Mission based to try and bring reliable and uncensored internet to mountainous regions in West Papua.",
+            "server": "Cloud based relays distributed worldwide. Secured behind multiple layers of security.",
             "company": ""
         }
     },
@@ -36,6 +35,6 @@
         "1": "6658713e2cbfa4e347691a0435953f5acbe9f03d330e94caa3a0cfb4"
     },
     "telegram-admin-handle": {
-        "0": "@Maluiin777"
+        "0": "Maluiin777"
     },
 }
